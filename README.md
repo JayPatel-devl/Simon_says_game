@@ -41,4 +41,4 @@ Test your memory skills by repeating the sequence of colors!
 
 ## 📸 Screenshots
 
-
+![Game Screenshot](game.png)
